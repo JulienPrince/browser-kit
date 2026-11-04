@@ -1,0 +1,15 @@
+{
+  "name": "browser-kit",
+  "owner": { "name": "JulienPrince", "url": "https://github.com/JulienPrince" },
+  "description": "Claude Code plugin that picks the right browser tool: zenpilot, dev-browser or bundled Playwright scripts",
+  "plugins": [
+    {
+      "name": "browser-kit",
+      "source": "./plugins/browser-kit",
+      "description": "Pick the right browser tool (zenpilot, dev-browser, Playwright scripts) for visual checks, network/console bugs, API mocks and injected scripts",
+      "version": "0.1.0",
+      "category": "development",
+      "tags": ["browser", "testing", "playwright", "zenpilot", "dev-browser", "mocks"]
+    }
+  ]
+}

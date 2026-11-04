@@ -1,0 +1,10 @@
+{
+  "name": "browser-kit",
+  "version": "0.1.0",
+  "description": "Pick the right browser tool (zenpilot, dev-browser, Playwright scripts) for visual checks, network/console bugs, API mocks and injected scripts",
+  "author": { "name": "JulienPrince", "url": "https://github.com/JulienPrince" },
+  "homepage": "https://github.com/JulienPrince/browser-kit",
+  "repository": "https://github.com/JulienPrince/browser-kit",
+  "license": "MIT",
+  "keywords": ["browser", "testing", "playwright", "zenpilot", "dev-browser", "mocks", "network"]
+}
